@@ -6,42 +6,42 @@ This repository contains my solutions to all the materials, namely quizes and pr
 
 ## Contents
 
-### COURSE-1: Neural Networks and Deep Learning 
-- #### week-1: Introduction to Deep Learning
+#### COURSE-1: Neural Networks and Deep Learning 
+- ##### week-1: Introduction to Deep Learning
 
-- #### week-2: Neural Networks Basics
+- ##### week-2: Neural Networks Basics
   
-- #### week-3: Shallow Neural Networks
+- ##### week-3: Shallow Neural Networks
 
-- #### week-4: Deep Neural Networks
+- ##### week-4: Deep Neural Networks
 
-### COURSE-2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization 
-- #### week-1: Practical aspects of Deep Learning
+#### COURSE-2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization 
+- ##### week-1: Practical aspects of Deep Learning
 
-- #### week-2: Optimization algorithms
+- ##### week-2: Optimization algorithms
   
-- #### week-3: Hyperparameter tuning, Batch Normalization, and Programming Frameworks
+- ##### week-3: Hyperparameter tuning, Batch Normalization, and Programming Frameworks
 
-### COURSE-3: Structuring Machine Learning Projects
-- #### week-1: Machine Learning strategy (part-1)
+#### COURSE-3: Structuring Machine Learning Projects
+- ##### week-1: Machine Learning strategy (part-1)
 
-- #### week-2: Machine Learning strategy (part-2)
+- ##### week-2: Machine Learning strategy (part-2)
 
-### COURSE-4: Convolutional Neural Networks 
-- #### week-1: Foundations of Convolutional Neural Networks
+#### COURSE-4: Convolutional Neural Networks 
+- ##### week-1: Foundations of Convolutional Neural Networks
 
-- #### week-2: Deep convolutional models: case studies
+- ##### week-2: Deep convolutional models: case studies
   
-- #### week-3: Object detection
+- ##### week-3: Object detection
 
-- #### week-4: Special applications: Face recognition & Neural style transfer
+- ##### week-4: Special applications: Face recognition & Neural style transfer
 
-### COURSE-5: Sequence Models
-- #### week-1: Recurrent Neural Networks
+#### COURSE-5: Sequence Models
+- ##### week-1: Recurrent Neural Networks
 
-- #### week-2: Natural Language Processing & Word Embeddings
+- ##### week-2: Natural Language Processing & Word Embeddings
   
-- #### week-3: Sequence models & Attention mechanism
+- ##### week-3: Sequence models & Attention mechanism
 
 ## Specialization Certificate
 
